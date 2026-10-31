@@ -86,5 +86,4 @@ JOINs, GROUP BY, CASE WHEN, window function (`row_number`), aggregate functions,
 1. Create a table named `swiggy_data` in MySQL and import `Swiggy_Data.csv`.
 2. Run `swiggy_Data_Query.sql` from top to bottom.
 
-## Author
-[आपका नाम] | [LinkedIn profile link] | [GitHub: sachin-lit](https://github.com/sachin-lit)
+

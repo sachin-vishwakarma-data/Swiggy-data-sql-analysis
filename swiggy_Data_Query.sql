@@ -280,7 +280,7 @@ when price_inr between 300 and 499 then '300-499'
  group by spend_bucket
  order by total_orders desc;
  
- -- Data toutorial
+ 
  
 
  
